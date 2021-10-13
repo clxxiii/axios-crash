@@ -2,4 +2,4 @@
 
 > These are the files for the YouTube Axios crash course.
 
-"start.js" is just the event listeners and empty functions. "main.js" is the completed code
+"I forked this so i could literally copy and paste an API that I was having cors errors with, and it STILL does not work
